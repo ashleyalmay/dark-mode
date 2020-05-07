@@ -18,4 +18,4 @@ export const useDarkMode = () => {
     return [values, setDarkMode];
 };
 
-// always bring down whasts in the const
+// always bring down whats in the consts

@@ -20,3 +20,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+// replaced the use state with what you imported dont forget to change the names
